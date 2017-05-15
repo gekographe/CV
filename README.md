@@ -1,6 +1,14 @@
-## Jean-Jacques Calbayrac
+Jean-Jacques Calbayrac
+=========
 
-Nice fresh man going to Makers Academy. The dream job would be to work with a challenging team where people stick together and declare war to each other around a board game at the end of the day. I can lace both my shoes without assistance.
+I'm a junior level web developper, with a background in photography. I have a kean eye for detail and love to learn new challenging objectives ᕦ(ò_óˇ)ᕤ
+
+Code Example
+------------
+
+| [Invading the Invaders](https://github.com/gekographe/invading_invaders) |
+|:--------------- |
+| Documentation created after learning how to hack a video game. Hacking and documentation made in 5 days with [Vivien Tang](https://github.com/honjintang), [Hasan Sonmez](https://github.com/UltimateCoder00) and [William Schwier](https://github.com/w-schwier).|
 
 ## Skills
 
