@@ -1,7 +1,7 @@
 Jean-Jacques Calbayrac
 =========
 
-I'm a junior level web developper, with a background in photography. I have a kean eye for detail and love to learn new challenging objectives ᕦ(ò_óˇ)ᕤ
+I'm a junior level web developper, with a background in photography. I have a kean eye for detail and love to set to myself new challenging objectives
 
 Code Example
 ------------
@@ -10,10 +10,22 @@ Code Example
 |:--------------- |
 | Documentation created after learning how to hack a video game. Hacking and documentation made in 5 days with [Vivien Tang](https://github.com/honjintang), [Hasan Sonmez](https://github.com/UltimateCoder00) and [William Schwier](https://github.com/w-schwier).|
 
+Web Development
+---------------
+
+I always wanted to learn about web development but I hate 
+to do things only half way, if I start something I go all 
+the way. I wrote my first of code 5 months ago, since then
+I attended Makers Academy for three months and, among a
+lot of things, I learnt to learn fast and be efficient.
+
 ## Skills
 
-#### This Skill
+- Test Driven Development
 
+It's a very important part of being a developer to test our code. I created my own Javascript testing framework 
+
+ 
 
 - Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -32,16 +44,9 @@ Code Example
 
 ## Education
 
-#### Makers Academy (03/2017 to 06/2017)
+#### Makers Academy 
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
-
-#### Your University / College (09/2007 to 06/2012)
+#### 
 
 - Gobelins, l'ecole de l'image
 Studied photography for 3 years, learning about lights, the technicals aspects of a shooting and photoshop.
@@ -53,15 +58,9 @@ Studied geography and geology for a year.
 - LISAA
 studied art history for a year.
 
-#### Any other qualifications
+#### (づ｡◕‿‿◕｡)づ
 
 - I craft my own boardgames. 
 It's a great way to learn how to solve problems and understand how to bring a project from a beta version to a full release version.
-- I also do a good coffee and pour a great beer.
 
-## Experience
-
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+- I run an instagram account using a gameboy camera.
