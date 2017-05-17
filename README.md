@@ -1,7 +1,11 @@
 Jean-Jacques Calbayrac
 =========
 
-I'm a junior level web developper, with a background in photography. I have a kean eye for detail and love to set to myself new challenging objectives
+```
+As a passionate junior developer,
+So that I can help a company to reach for the stars,
+I would like them to know that I'm looking for new challenges.
+```
 
 Code Example
 ------------
@@ -21,19 +25,20 @@ lot of things, I learnt to learn fast and be efficient.
 
 ## Skills
 
-- Test Driven Development
+#### Test Driven Development
 
-It's a very important part of being a developer to test our code. I created my own Javascript testing framework 
+A great app is a tested app, working without testing might
+seem like a time saving way of coding but on the long term
+it's counterproductive
 
- 
 
-- Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+- I'm trained to use rspec, jasmine or cucumber
+- 
+- I created my own Javascript testing framework 
 
-- Experience
-- Achievements
-- Evidence
+#### Teamwork
 
-#### Another Skill
+
 
 - Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -46,9 +51,9 @@ It's a very important part of being a developer to test our code. I created my o
 
 #### Makers Academy 
 
-#### 
+#### Gobelins, l'ecole de l'image 
 
-- Gobelins, l'ecole de l'image
+- 
 Studied photography for 3 years, learning about lights, the technicals aspects of a shooting and photoshop.
 Master
 
