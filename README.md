@@ -25,27 +25,41 @@ lot of things, I learnt to learn fast and be efficient.
 
 ## Skills
 
-#### Test Driven Development
+#### Fast Leaner
+```
+As a developer,
+So that I can be quickly efficient,
+I want to prove to my new employer that I can to learn new skills quickly.
+```
 
-A great app is a tested app, working without testing might
-seem like a time saving way of coding but on the long term
-it's counterproductive
-
-
-- I'm trained to use rspec, jasmine or cucumber
 - 
+
+#### Test Driven Development
+```
+As a developer,
+So that I can deliver a great app,
+I would write great tests to make sure everything runs smoothly
+```
+
+- A great app is a tested app, working without testing might
+  seem like a time saving way of coding but on the long term
+  it's counterproductive.
+- I'm trained to use rspec, jasmine or cucumber
 - I created my own Javascript testing framework 
 
-#### Teamwork
+#### Teamwork & Communication
+```
+As a developer,
+So that I can deliver improved bits of codes,
+I would love to work in a teamplay driven environment.
+```
 
-
-
-- Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- Communicating is one of the most important part of a team
+  and it's important to keep this link intact by sharing 
+  through stand-up, retrospective and a good use of feedbacks.
+- I'm well versed in pair coding and enjoy it very much.
+- Diagramming is a great way to share your thoughts and I like
+  to do it for myself or explain my chain of thoughts.
 
 ## Education
 
