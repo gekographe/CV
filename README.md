@@ -32,7 +32,13 @@ So that I can be quickly efficient,
 I want to prove to my new employer that I can to learn new skills quickly.
 ```
 
-- 
+- 3 months ago I started to study at Makers Academy. 
+  Today I know and use on a daily base Ruby, JavaScript, 
+  use TDD to develop and test my apps, SQL and work with databases,
+  know and apply conventions like SOLID or REST.
+- Personnal projects gave me the occasion to learn in a week how to
+  hack a game and learn about hexadecimal code, I also learnt and
+  starded to write code using Assembly.
 
 #### Test Driven Development
 ```
@@ -61,25 +67,65 @@ I would love to work in a teamplay driven environment.
 - Diagramming is a great way to share your thoughts and I like
   to do it for myself or explain my chain of thoughts.
 
+## Experience
+```
+As a developer,
+So that I can bring a keene fresh eye
+I want my new team to know that I come from a different background
+```
+
+#### Makers Academy
+
+- Makers Academy is a school but most importantly it's an experience 
+  that taught me what working in a challenging environment would be.
+  Every week we had new challenges to face and finding solutions to each
+  of them was an amazing experience.
+  
+#### Photography
+
+- Before starting my new exciting life as a junior developper
+  I used to work in photography as a photographer assistant. 
+  Photography is a creative but also a very competitive world 
+  with important deadlines, I know what working under pressure means.
+- I got the chance to work with different great photographers like 
+  Paolo Roversi (Fashion photography) or Stanley Greene (War photography)
+  and know what high work quality imply.
+  
+#### Apple Store
+
+- I used to work in an Apple Store as a Specialist. It was a great experience
+  where I learnt for the first the concept of positive feedback and got the opportunity
+  to work in a big team and exchange with lots of people.
+  
+#### Bartender
+
+- I also worked as a bartender in differents place. Made me work in
+  a very fast environment where your team is everything. It also asked
+  me to learn fast a lot of different aspect of bartending like 
+  cocktails recipee, be self-aware of my surrounding and a good listener.
+  Also I pour a great beer, just to say.
+
 ## Education
 
 #### Makers Academy 
 
-#### Gobelins, l'ecole de l'image 
+- Studied coding, and learnt how to learn quickly.
 
-- 
-Studied photography for 3 years, learning about lights, the technicals aspects of a shooting and photoshop.
-Master
+#### Gobelins, l'ecole de l'image - Paris
 
-- University of La Sorbonne
-Studied geography and geology for a year.
+- Studied photography for 3 years, learning about lights, the technicals aspects of a shooting and photoshop.
 
-- LISAA
-studied art history for a year.
+#### University of La Sorbonne - Paris
+
+- Studied geography and geology for a year.
+
+#### LISAA - Paris
+
+- Studied art history for a year.
 
 #### (づ｡◕‿‿◕｡)づ
 
 - I craft my own boardgames. 
-It's a great way to learn how to solve problems and understand how to bring a project from a beta version to a full release version.
+  It's a great way to learn how to solve problems and understand how to bring a project from a beta version to a full release   version.
 
-- I run an instagram account using a gameboy camera.
+- I run an instagram account using a GameboyCamera(https://www.instagram.com/gameboycameraman/)
