@@ -17,103 +17,99 @@ Code Example
 Web Development
 ---------------
 
-I always wanted to learn about web development but I hate 
-to do things only half way, if I start something I go all 
-the way. I wrote my first of code 5 months ago, since then
-I attended Makers Academy for three months and, among a
-lot of things, I learnt to learn fast and be efficient.
+I wrote my first line of code 5 months ago. I always wanted to learn about web development, but if I start something I go all 
+the way - so I attended Makers Academy for three months and, among many things, I figured out how to learn fast and be efficient with my time.
 
 ## Skills
 
-#### Fast Leaner
+#### Fast Learner
 ```
 As a developer,
-So that I can be quickly efficient,
-I want to prove to my new employer that I can to learn new skills quickly.
+So that I can be quick and efficient,
+I want to prove to my new employer that I can pick up new skills quickly.
 ```
 
 - 3 months ago I started to study at Makers Academy. 
-  Today I know and use on a daily base Ruby, JavaScript, 
-  use TDD to develop and test my apps, SQL and work with databases,
-  know and apply conventions like SOLID or REST.
-- Personnal projects gave me the occasion to learn in a week how to
-  hack a game and learn about hexadecimal code, I also learnt and
-  starded to write code using Assembly.
+  Today I know and use on a daily basis Ruby, JavaScript, 
+  use various frameworks to TDD my apps, and use ORMs to work with SQL databases,
+  know and apply conventions like SOLID and REST.
+- Personal projects gave me the occasion to learn in a week how to
+  hack a game and learn about hexadecimal code. I also started to write code using Assembly.
 
-#### Test Driven Development
+#### Test-Driven Development
 ```
 As a developer,
-So that I can deliver a great app,
-I would write great tests to make sure everything runs smoothly
+So that I can ship a great app,
+I want to write great tests to make sure everything runs smoothly
 ```
 
 - A great app is a tested app, working without testing might
-  seem like a time saving way of coding but on the long term
+  seem like a time-saving way of coding but in the long-term
   it's counterproductive.
-- I'm trained to use rspec, jasmine or cucumber
-- I created my own Javascript testing framework 
+- I'm trained to use RSpec, Jasmine and Cucumber
+- I created my own JavaScript testing framework 
 
 #### Teamwork & Communication
 ```
 As a developer,
-So that I can deliver improved bits of codes,
-I would love to work in a teamplay driven environment.
+So that I can deliver world-class software,
+I would love to work in a team-driven environment.
 ```
 
-- Communicating is one of the most important part of a team
-  and it's important to keep this link intact by sharing 
-  through stand-up, retrospective and a good use of feedbacks.
-- I'm well versed in pair coding and enjoy it very much.
-- Diagramming is a great way to share your thoughts and I like
-  to do it for myself or explain my chain of thoughts.
+- Communicating is one of the most important part of teamwork
+  and it's important to keep this link intact by sharing knowledge
+  through stand-ups, retrospectives and good use of feedback.
+- I'm well-versed in pair-programming and enjoy it very much.
+- Diagramming is a great way to explain your understanding of a system and I find it useful to explain my train of thoughts.
 
 ## Experience
 ```
 As a developer,
-So that I can bring a keene fresh eye
+So that I can provide a keen, fresh eye
 I want my new team to know that I come from a different background
 ```
 
 #### Makers Academy
 
-- Makers Academy is a school but most importantly it's an experience 
-  that taught me what working in a challenging environment would be.
-  Every week we had new challenges to face and finding solutions to each
+- Makers Academy is a bootcamp but most importantly it's an experience 
+  that taught me what working in a challenging environment is like.
+  Every week we had new challenges to face, and finding solutions to each
   of them was an amazing experience.
   
 #### Photography
 
 - Before starting my new exciting life as a junior developper
-  I used to work in photography as a photographer assistant. 
+  I used to work in photography as a photographer's assistant. 
   Photography is a creative but also a very competitive world 
-  with important deadlines, I know what working under pressure means.
-- I got the chance to work with different great photographers like 
+  with tight deadlines- I know what working under pressure means.
+- I got the chance to work with great photographers like 
   Paolo Roversi (Fashion photography) or Stanley Greene (War photography)
-  and know what high work quality imply.
+  and understand what working at the highest levels requires.
   
 #### Apple Store
 
 - I used to work in an Apple Store as a Specialist. It was a great experience
-  where I learnt for the first the concept of positive feedback and got the opportunity
+  where I learnt for the first time the concept of positive feedback, and got the opportunity
   to work in a big team and exchange with lots of people.
   
 #### Bartender
 
-- I also worked as a bartender in differents place. Made me work in
-  a very fast environment where your team is everything. It also asked
-  me to learn fast a lot of different aspect of bartending like 
-  cocktails recipee, be self-aware of my surrounding and a good listener.
-  Also I pour a great beer, just to say.
+- I also worked as a bartender in different places. I had to operate in
+  a very fast environment where your team is _everything_. It also meant I had to quickly learn a lot of different aspect of bartending like: 
+  - cocktail recipes
+  - be self-aware of my surroundings
+  - become a good listener
+  - also I pour a great beer, just to say
 
 ## Education
 
 #### Makers Academy 
 
-- Studied coding, and learnt how to learn quickly.
+- Studied web development, and learnt how to learn quickly and effectively.
 
 #### Gobelins, l'ecole de l'image - Paris
 
-- Studied photography for 3 years, learning about lights, the technicals aspects of a shooting and photoshop.
+- Studied photography for 3 years, learning about lights, the technicals aspects of a shooting and I have great photoshop skills.
 
 #### University of La Sorbonne - Paris
 
@@ -125,6 +121,6 @@ I want my new team to know that I come from a different background
 
 ## A bit more
 
-- I started a photography project using a [Gameboy Camera](https://www.instagram.com/gameboycameraman/). Instagram [shared](https://www.instagram.com/p/BKofrdFD4IF/) one of my picture and I'm currently exhibiting a series of these pictures in a [The Hague Photography Museum](http://www.fotomuseumdenhaag.nl/en/exhibitions/gameboycameraman), in the Netherlands.
+- I started a photography project using a [Gameboy Camera](https://www.instagram.com/gameboycameraman/). Instagram [shared](https://www.instagram.com/p/BKofrdFD4IF/) I'm currently exhibiting a series of these pictures in [The Hague Photography Museum](http://www.fotomuseumdenhaag.nl/en/exhibitions/gameboycameraman), in the Netherlands.
 
-- I craft my own boardgames. It's a great way to learn how to solve problems and understand how to bring a project from scratch to a full release version.
+- I craft my own boardgames. It's a great way to learn how to solve problems and understand how to bring a project from scratch to a full-release version.
