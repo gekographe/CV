@@ -125,6 +125,6 @@ I want my new team to know that I come from a different background
 
 ## A bit more
 
-- I started a photography project using a [Gameboy Camera](https://www.instagram.com/gameboycameraman/). Instagram [shared](https://www.instagram.com/p/BKofrdFD4IF/) one of my picture and I'm currently exhibiting a series of these pictures in a [Dutch museum](http://www.fotomuseumdenhaag.nl/en/exhibitions/gameboycameraman).
+- I started a photography project using a [Gameboy Camera](https://www.instagram.com/gameboycameraman/). Instagram [shared](https://www.instagram.com/p/BKofrdFD4IF/) one of my picture and I'm currently exhibiting a series of these pictures in a [The Hague Photography Museum](http://www.fotomuseumdenhaag.nl/en/exhibitions/gameboycameraman), in the Netherlands.
 
 - I craft my own boardgames. It's a great way to learn how to solve problems and understand how to bring a project from scratch to a full release version.
