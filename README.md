@@ -128,4 +128,4 @@ I want my new team to know that I come from a different background
 - I craft my own boardgames. 
   It's a great way to learn how to solve problems and understand how to bring a project from a beta version to a full release   version.
 
-- I run an instagram account using a GameboyCamera(https://www.instagram.com/gameboycameraman/)
+- I run an instagram account using a [Gameboy camera](https://www.instagram.com/gameboycameraman/)
