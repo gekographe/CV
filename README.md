@@ -2,7 +2,7 @@ Jean-Jacques Calbayrac
 =========
 
 ```
-As a passionate junior developer,
+As a passionate developer,
 So that I can help a company to reach for the stars,
 I would like them to know that I'm looking for new challenges.
 ```
