@@ -7,7 +7,7 @@ So that I can help a company to reach for the stars,
 I would like them to know that I'm looking for new challenges.
 ```
 
-Code Example
+Project Example
 ------------
 
 | [Invading the Invaders](https://github.com/gekographe/invading_invaders) |
