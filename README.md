@@ -1,5 +1,7 @@
-Jean-Jacques Calbayrac
+# Jean-Jacques Calbayrac
 =========
+
+[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education)
 
 ```
 As a passionate developer,
@@ -7,12 +9,12 @@ So that I can help a company to reach for the stars,
 I would like them to know that I'm looking for new challenges.
 ```
 
-Project Example
+## <a name="projects">Projects</a>
 ------------
 
-| [Invading the Invaders](https://github.com/gekographe/invading_invaders) |
-|:--------------- |
-| Documentation created after learning how to hack a video game. Hacking and documentation made in 5 days with [Vivien Tang](https://github.com/honjintang), [Hasan Sonmez](https://github.com/UltimateCoder00) and [William Schwier](https://github.com/w-schwier).|
+| [Invading the Invaders](https://github.com/gekographe/invading_invaders) | [Alexa Spaceship](https://github.com/nazwhale/spaceship) |
+| :--------------- | :--------------- |
+| Documentation created after learning how to hack a video game. Hacking and documentation made in 5 days with [Vivien Tang](https://github.com/honjintang), [Hasan Sonmez](https://github.com/UltimateCoder00) and [William Schwier](https://github.com/w-schwier).| Final Project of my 12 weeks experience at Makers Academy! And in 2 weeks we took up the challenge to learn new technologies, including Node.js, cloud services and programming for VR. We even were able to add a couple of extra features. I had the chance to work on this project with [Naz Malik](https://github.com/nazwhale), [Kate Gleeson](https://github.com/allbecauseyoutoldmeso) and [Ruan Odendall](https://github.com/ruanodendaal)
 
 Web Development
 ---------------
@@ -20,7 +22,7 @@ Web Development
 I wrote my first line of code 5 months ago. I always wanted to learn about web development, but if I start something I go all 
 the way - so I attended Makers Academy for three months and, among many things, I figured out how to learn fast and be efficient with my time.
 
-## Skills
+## <a name="skills">Skills</a>
 
 #### Fast Learner
 ```
@@ -62,7 +64,7 @@ I would love to work in a team-driven environment.
 - I'm well-versed in pair-programming and enjoy it very much.
 - Diagramming is a great way to explain your understanding of a system and I find it useful to explain my train of thoughts.
 
-## Experience
+## <a name="experience">Experience</a>
 ```
 As a developer,
 So that I can provide a keen, fresh eye
@@ -101,7 +103,7 @@ I want my new team to know that I come from a different background
   - become a good listener
   - also I pour a great beer, just to say
 
-## Education
+## <a name="education">Education</a>
 
 #### Makers Academy 
 
