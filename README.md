@@ -1,13 +1,16 @@
 # Jean-Jacques Calbayrac
-=========
 
-[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education)
+[About Me](#about-me) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education)
 
-```
-As a passionate developer,
-So that I can help a company to reach for the stars,
-I would like them to know that I'm looking for new challenges.
-```
+## <a name="about-me">About Me</a>
+
+Welcome to a new chapter of my life. 
+
+After 5 years working in photography, I decided to change career. I've always been curious about coding and what a developer does. It looks like dark magic from the outside. And after an intensive and amazing three months at Makers Academy I'm finally ready for the next step.
+
+In the past three months I worked on a lot of very different project, from hacking an Atari game using hexadecimal and Assembly code, to creating a VR experience using Alexa to direct you in the different VR scenes. Every challenge facing me was one more opportunity to prove that I made the right choice to change career.
+
+On my spare time I started to work on small personal projects, I'm motivated to learn C# and for that I started created small video games on Unity, but I also want to reinforce my knowledge of JavaScript. My biggest problem? there are only 24 hours a day.
 
 ## <a name="projects">Projects</a>
 ------------
@@ -123,6 +126,6 @@ I want my new team to know that I come from a different background
 
 ## A bit more
 
-- I started a photography project using a [Gameboy Camera](https://www.instagram.com/gameboycameraman/). Instagram [shared](https://www.instagram.com/p/BKofrdFD4IF/) I'm currently exhibiting a series of these pictures in [The Hague Photography Museum](http://www.fotomuseumdenhaag.nl/en/exhibitions/gameboycameraman), in the Netherlands.
+- I started a photography project using a [Gameboy Camera](https://www.instagram.com/gameboycameraman/). Instagram [shared](https://www.instagram.com/p/BKofrdFD4IF/) one of my pictures and I'm currently exhibiting a series of these photos in [The Hague Photography Museum](http://www.fotomuseumdenhaag.nl/en/exhibitions/gameboycameraman), in the Netherlands.
 
 - I craft my own boardgames. It's a great way to learn how to solve problems and understand how to bring a project from scratch to a full-release version.
