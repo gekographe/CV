@@ -2,9 +2,11 @@
 
 [About Me](#about-me) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education)
 
+<a name="website" href="http://calbayrac.one/">![landing_page](images/landing.png)</a>
+
 ## <a name="about-me">About Me</a>
 
-Welcome to a new chapter of my life. 
+Welcome to a new chapter of my life.
 
 After 5 years working in photography, I decided to change career. I've always been curious about coding and what a developer does. It looks like dark magic from the outside. And after an intensive and amazing three months at Makers Academy I'm finally ready for the next step.
 
@@ -22,7 +24,7 @@ On my spare time I started to work on small personal projects, I'm motivated to 
 Web Development
 ---------------
 
-I wrote my first line of code 5 months ago. I always wanted to learn about web development, but if I start something I go all 
+I wrote my first line of code 5 months ago. I always wanted to learn about web development, but if I start something I go all
 the way - so I attended Makers Academy for three months and, among many things, I figured out how to learn fast and be efficient with my time.
 
 ## <a name="skills">Skills</a>
@@ -34,8 +36,8 @@ So that I can be quick and efficient,
 I want to prove to my new employer that I can pick up new skills quickly.
 ```
 
-- 3 months ago I started to study at Makers Academy. 
-  Today I know and use on a daily basis Ruby, JavaScript, 
+- 3 months ago I started to study at Makers Academy.
+  Today I know and use on a daily basis Ruby, JavaScript,
   use various frameworks to TDD my apps, and use ORMs to work with SQL databases,
   know and apply conventions like SOLID and REST.
 - Personal projects gave me the occasion to learn in a week how to
@@ -52,7 +54,7 @@ I want to write great tests to make sure everything runs smoothly
   seem like a time-saving way of coding but in the long-term
   it's counterproductive.
 - I'm trained to use RSpec, Jasmine and Cucumber
-- I created my own JavaScript testing framework 
+- I created my own JavaScript testing framework
 
 #### Teamwork & Communication
 ```
@@ -76,31 +78,31 @@ I want my new team to know that I come from a different background
 
 #### Makers Academy
 
-- Makers Academy is a bootcamp but most importantly it's an experience 
+- Makers Academy is a bootcamp but most importantly it's an experience
   that taught me what working in a challenging environment is like.
   Every week we had new challenges to face, and finding solutions to each
   of them was an amazing experience.
-  
+
 #### Photography
 
 - Before starting my new exciting life as a junior developper
-  I used to work in photography as a photographer's assistant. 
-  Photography is a creative but also a very competitive world 
+  I used to work in photography as a photographer's assistant.
+  Photography is a creative but also a very competitive world
   with tight deadlines- I know what working under pressure means.
-- I got the chance to work with great photographers like 
+- I got the chance to work with great photographers like
   Paolo Roversi (Fashion photography) or Stanley Greene (War photography)
   and understand what working at the highest levels requires.
-  
+
 #### Apple Store
 
 - I used to work in an Apple Store as a Specialist. It was a great experience
   where I learnt for the first time the concept of positive feedback, and got the opportunity
   to work in a big team and exchange with lots of people.
-  
+
 #### Bartender
 
 - I also worked as a bartender in different places. I had to operate in
-  a very fast environment where your team is _everything_. It also meant I had to quickly learn a lot of different aspect of bartending like: 
+  a very fast environment where your team is _everything_. It also meant I had to quickly learn a lot of different aspect of bartending like:
   - cocktail recipes
   - be self-aware of my surroundings
   - become a good listener
@@ -108,7 +110,7 @@ I want my new team to know that I come from a different background
 
 ## <a name="education">Education</a>
 
-#### Makers Academy 
+#### Makers Academy
 
 - Studied web development, and learnt how to learn quickly and effectively.
 
