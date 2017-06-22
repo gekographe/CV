@@ -2,7 +2,7 @@
 
 [About Me](#about-me) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education)
 
-<a name="website" href="http://calbayrac.one/">![landing_page](images/landing.png)</a>
+<a name="website" href="http://calbayrac.one/" target="_blank">![landing_page](images/landing.png)</a>
 
 ## <a name="about-me">About Me</a>
 
