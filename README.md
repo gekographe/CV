@@ -1,4 +1,6 @@
 # Jean-Jacques Calbayrac
+calbayracjj@gmail.com
++44 7479 866394
 
 [About Me](#about-me) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education)
 
